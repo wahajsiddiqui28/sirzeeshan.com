@@ -1,0 +1,517 @@
+@media only screen and (max-width: 1600px){}
+@media only screen and (max-width: 1400px){}
+@media only screen and (max-width: 1366px){}
+@media only screen and (max-width: 1280px){}
+@media only screen and (max-width: 1024px){
+    section.banner {
+        padding: 126px 0 140px;
+    }
+    ._footer_in.sdfsdfs ul li {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .text-com h1 {
+        font-size: 41px;
+    }
+    section.ALCO-OFFERS {
+        padding: 0 0 10px;
+    }
+    section.WHAT-BENEFITS {
+        padding: 60px 0 10px;
+    }
+    .sdfds{
+        margin-top: 20px;
+    }
+    .vdfg{
+        margin-top: -25px;
+    }
+    section.a-deep-dive.interventionistasfsd .a_deep_dive_inner h3 {
+        position: relative;
+        left: 0px;
+    }
+    section.a-deep-dive.interventionistasfsd .a_deep_dive_inner p {
+        left: 0px;
+    }
+    section.begin .text-com ul li i {
+        font-size: 15px;
+        height: 35px;
+        width: 35px;
+        left: -40px;
+    }
+    section.begin .text-com ul li i::after {
+        height: 195px;
+    }
+    section.a-deep-dive.who-is .text-com h3 {
+        left: 0;
+    }
+}
+@media only screen and (max-width: 991px){
+    .container, .container-md, .container-sm {
+        max-width: 960px !important;
+    }
+    .text-com h2 {
+        font-size: 32px;
+    }
+    section.WHAT-BENEFITS {
+        padding: 32px 0;
+    }
+    section.WHAT-PROBLEMS {
+        padding: 11px 0;
+    }
+    section.WHAT-PROBLEMS .text-com h2 {
+        text-align: center;
+    }
+    ._footer_in img {
+        width: 70%;
+    }
+    .six-boxes-vc-inner {
+        min-height: 96%;
+    }
+    section.logos_s {
+        padding: 19px 0;
+        margin-top: 4px;
+    }
+    .img_com {
+        background-size: 100% 65%;
+    }
+    .img_com.advance-interventionistasfsd {
+        width: 95%;
+        left: 24px;
+        height: 500px;
+    }
+    section.a-deep-dive.interventionistasfsd .a_deep_dive_inner ul.a_deep_dive_inner_ul {
+        padding-left: 30px !important;
+    }
+    ul.a_deep_dive_inner_ul.sffds li {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    ol.inner_ol li {
+        padding-left: 5px;
+        line-height: 21px;
+        font-size: 14px;
+    }
+    section.begin.fsdsfsdf .Solution-Box {
+        top: 45%;
+        width: 85%;
+    }
+    section.begin.fsdsfsdf .Solution-Box img {
+        display: table;
+        margin: 0 auto;
+    }
+    section.a-deep-dive.who-is .a_deep_dive_inner ul.a_deep_dive_inner_ul {
+        padding-left: 35px;
+    }
+    section.a-deep-dive.who-is .a_deep_dive_inner .Solution-Box {
+        top: 40%;
+    }
+    section.begin.why-train-with-alco .text-com ul li img {
+        width: 6%;
+        left: -30px;
+    }
+    section.begin.why-train-with-alco.dfsdfsd.mt-4 .text-com ul {
+        padding: 0;
+    }
+}
+@media only screen and (max-width: 800px){
+    section.ALCO-OFFERS .row.mt-5 {
+        margin: 10px 0 !important;
+    }
+    section.boxes .row {
+        justify-content: center;
+    }
+    section.boxes .col-lg-4.col-md-4 {
+        width: 41%;
+        margin-top: 17px;
+    }
+    ul.a_deep_dive_inner_ul li {
+        line-height: 25px;
+        font-size: 14px;
+    }
+    .six-boxes-vc-inner.sdfds {
+        min-height: 82%;
+    }
+    section.a-deep-dive.asfsdf ul.a_deep_dive_inner_ul {
+        padding: 0 0 2px 18px;
+    }
+    section.boxes.advance-interventionist .container {
+        max-width: 794px !important;
+    }
+    section.why-you-should-section.who-is-arslan-larik h2 {
+        line-height: 30px;
+        font-size: 26px;
+    }
+    section.why-you-should-section.who-is-arslan-larik h6 {
+        margin: 11px 0;
+        font-size: 15px;
+    }
+    section.why-you-should-section.who-is-arslan-larik p {
+        line-height: 23px;
+        font-size: 15px;
+    }
+    section.begin.fsdsfsdf .Solution-Box {
+        top: 35%;
+    }
+    section.a-deep-dive.who-is .a_deep_dive_inner ul.a_deep_dive_inner_ul li {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    section.a-deep-dive.who-is .a_deep_dive_inner .Solution-Box {
+        padding: 11px;
+        width: 46%;
+        top: 48%;
+        left: 401px;
+    }
+    section.banner.why-train-with-alco .text-com h1.text-white {
+        font-size: 45px !important;
+    }
+    section.banner.why-train-with-alco .text-com p {
+        line-height: 30px !important;
+    }
+    section.begin.why-train-with-alco.dfsdfsd.mt-4 .text-com ul li span {
+        font-size: 24px;
+    }
+    section.begin.why-train-with-alco .text-com ul li p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .three-box-vc h6 {
+        font-size: 20px;
+    }
+    .three-box-vc p {
+        font-size: 13px;
+    }
+    .three-box-vc a {
+        font-size: 14px;
+    }
+    .three-box-vc { 
+        padding: 25px;
+    }
+}
+@media only screen and (max-width: 768px){
+    .text-com h1 {
+        font-size: 27px;
+        padding: 0 15px;
+    }
+    section.WHAT-BENEFITS {
+        padding-left: 20px;
+    }
+    section.banner.practitioner h2.text-white {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    section.banner.why-train-with-alco .text-com h1.text-white {
+        padding: 0;
+    }
+    section.banner.why-train-with-alco .text-com {
+        text-align: center;
+    }
+    .form-vc.login {
+        width: 100%;
+    }
+}
+    
+@media only screen and (max-width: 480px){
+    section.banner {
+        padding: 66px 0 80px;
+    }
+    .box {
+        padding: 14px 23px 31px;
+        margin-bottom: 15px;
+    }
+    .box img {
+        width: 15%;
+    }
+    section.individuals .row.mt-5 {
+        margin-top: 19px !important;
+    }
+    .text-com h2 {
+        font-size: 27px;
+    }
+    section.individuals {
+        padding: 40px 0 10px;
+    }
+    section.WHAT-PROBLEMS h2 {
+        text-align: center;
+    }
+    section.WHAT-BENEFITS .text-com h2 {
+        font-size: 31px;
+        text-align: center;
+        padding-right: 20px;
+    }
+    section.WHAT-PROBLEMS h2 button.accordion-button {
+        font-size: 14px;
+        text-align: center;
+    }
+    .accordion-item .accordion-body p {
+        font-size: 14px;
+        text-align: center;
+        color: #000000b3;
+    }
+    .img- img {
+        width: 88%;
+        margin-top: 27px !important;
+        margin: 0 auto;
+        display: table;
+    }
+    section.get-in-touch .text-com {
+        text-align: center;
+    }
+    footer._footer_footer {
+        padding: 33px 0 12px;
+        text-align: center;
+    }
+    ._footer_in h5::before {
+        width: 100%;
+    }
+    ._footer_in ul {
+        padding: 0 !important;
+    }
+    ._footer_in h5 {
+        padding-left: 0px;
+    }
+    section.banner.practitioner h2.text-white {
+        font-size: 31px;
+    }
+    section.boxes .col-lg-4.col-md-4 {
+        width: 65%;
+    }
+    section.logos_s {
+        padding: 33px 0;
+        margin-top: 65px;
+    }
+    section.a-deep-dive .col-lg-6.col-md-6.mt-5 {
+        margin-top: 6px !important;
+    }
+    .sdfds {
+        margin-top: 40px;
+    }
+    .vdfg {
+        margin-top: 41px;
+    }
+    section.boxes.advance-interventionist .container {
+        max-width: 450px !important;
+    }
+    section.logos_s {
+        padding: 13px 0;
+        margin-top: -4px;
+    }
+    .img_com.advance-interventionistasfsd {
+        width: 100%;
+        left: 0px !important;
+        height: 500px;
+    }
+    section.a-deep-dive.interventionistasfsd .a_deep_dive_inner h3 {
+        font-size: 19px;
+    }
+    section.why-you-should-section {
+        padding: 23px 0;
+        margin-top: 7px;
+    }
+    .img_com {
+        height: 392px;
+    }
+    section.banner.four-clouds-model h2.text-white {
+        font-size: 32px;
+    }
+    section.a-deep-dive.four-clouds-model .a_deep_dive_inner .text-com p {
+        line-height: 23px;
+    }
+    section.Have-you-ever {
+        padding: 20px 0;
+    }
+    section.these-clouds.WHAT-PROBLEMS h5 {
+        font-size: 31px;
+        margin-top: 21px;
+        text-align: center;
+    }
+    section.banner.mission-vision-core-values .text-com h2.text-white {
+        font-size: 33px;
+    }
+    section.Empower h2 {
+        font-size: 31px;
+    }
+    .d-flex.align-items-start .row.mb-5.mt-5.asdas {
+        margin-top: 3px !important;
+    }
+    section.Empower {
+        padding: 23px 0;
+    }
+    .Solution-Box{
+        width: 90%;
+    }
+    section.banner.who-is-arslan-larik .text-com h1.text-white {
+        font-size: 40px !important;
+        padding: 0;
+        text-align: center;
+    }
+    section.banner.who-is-arslan-larik .text-com p {
+        font-size: 14px !important;
+        line-height: 22px !important;
+        text-align: center;
+    }
+    section.why-you-should-section.who-is-arslan-larik h2 {
+        margin-top: 34px;
+    }
+    section.why-you-should-section.who-is-arslan-larik .text-com {
+        text-align: center;
+    }
+    section.begin.fsdsfsdf .text-com {
+        text-align: center;
+    }
+    .img-img-com img {
+        margin-top: 35px;
+        box-shadow: -2px -3px 20px 0px #0000003d;
+    }
+    section.begin.fsdsfsdf .Solution-Box {
+        top: 60%;
+    }
+    section.a-deep-dive.who-is .a_deep_dive_inner .Solution-Box {
+        display: none;
+    }
+    section.a-deep-dive.why-train-with-alco.four-clouds-model.some .text-com h3 {
+        font-size: 32px;
+        margin-bottom: 12px;
+    }
+    section.begin.why-train-with-alco.mt-4 .img-img-com img {
+        width: 100%;
+    }
+    section.get-the-skills .text-com h4 {
+        font-size: 22px;
+        margin-bottom: 8px;
+    }
+    section.get-the-skills .text-com p {
+        font-size: 14px;
+    }
+    section.get-the-skills {
+        padding: 33px 0 222px;
+    }
+    section.begin.why-train-with-alco.dfsdfsd.mt-4 .text-com {
+        text-align: center;
+    }
+    section.vdsvpks .text-com {
+        text-align: center;
+    }
+    .three-boxes .col-lg-4.col-md-4 {
+        margin-bottom: 14px;
+    }
+    .sdsd.row button.btn.btn-primary.main {
+        padding: 11px 0 !important;
+    }
+    .sdsd.row {
+        margin-bottom: 0 !important;
+    }
+}
+@media only screen and (max-width: 414px){
+    section.get-in-touch .text-com h3 {
+        font-size: 33px;
+    }
+    .six-boxes-vc-inner .text-com ul li {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    section.a-deep-dive.asfsdf .a_deep_dive_inner .text-com h5 {
+        margin-bottom: 10px;
+    }
+    section.boxes.advance-interventionist .container {
+        max-width: 400px !important;
+    }
+    .boxes_inner .text-com h5 {
+        font-size: 18px;
+    }
+    .boxes_inner .text-com p {
+        font-size: 14px;
+    }
+    section.topics-covered.pt-5.pb-5 .text-com h4.pb-5.text-center {
+        padding-bottom: 17px !important;
+        font-size: 18px;
+    }
+    .text-box {
+        padding: 12px;
+        text-align: center;
+    }
+    .text-box .text-com p {
+        font-size: 14px;
+    }
+    section.begin .text-com h4 {
+        font-size: 23px;
+        margin-bottom: 17px;
+        margin-top: 13px;
+    }
+    section.begin .text-com ul li i::after {
+        height: 225px;
+    }
+    .Solution-Box {
+        padding: 12px;
+    }
+    section.these-clouds.WHAT-PROBLEMS div#accordionExample .accordion-body {
+        padding: 8px 15px;
+    }
+    section.a-deep-dive.four-clouds-model.some.sdfsdf .text-com p {
+        font-size: 15px;
+        line-height: 22px;
+        text-align: center;
+    }
+    section.a-deep-dive.four-clouds-model.some.sdfsdf .text-com button.btn.btn-primary.main {
+        margin: 0 auto !important;
+    }
+    section.a-deep-dive.why-train-with-alco.four-clouds-model.some p {
+        font-size: 14px !important;
+    }
+    section.begin.why-train-with-alco .text-com ul li p {
+        font-size: 14px;
+    }
+    section.get-in-touchxcz .text-com p {
+        font-size: 14px;
+    }
+    section.vdsvpks .text-com h5 {
+        font-size: 23px;
+    }
+    section.vdsvpks .text-com ul li {
+        font-size: 15px;
+        line-height: 24px;
+    }
+}
+@media only screen and (max-width: 375px){
+    .text-com h1 {
+        font-size: 23px;
+        padding: 0 0px;
+    }
+    button.btn.btn-primary.main {
+        padding: 10px 11px;
+    }
+    .text-com h2 {
+        font-size: 23px;
+    }
+    section.a-deep-dive .text-com h3 {
+        font-size: 18px;
+        margin-bottom: 37px;
+    }
+    .a_deep_dive_inner .text-com img {
+        width: 14%;
+    }
+    .six-boxes-vc-inner {
+        padding: 20px 2px 20px 9px;
+    }
+    section.boxes.advance-interventionist .container {
+        max-width: 346px !important;
+    }
+    section.begin .text-com ul li i::after {
+        height: 300px;
+    }
+    .Solution-Box p {
+        font-size: 13px;
+        /* margin-bottom: 0; */
+    }
+    section.banner.why-train-with-alco .text-com h1.text-white {
+        font-size: 37px !important;
+    }
+    section.banner.why-train-with-alco .text-com p {
+        line-height: 23px !important;
+        font-size: 16px !important;
+    }
+    section.a-deep-dive.why-train-with-alco.four-clouds-model.some .text-com h3 {
+        font-size: 25px;
+    }
+}
+@media only screen and (max-width: 360px){}
